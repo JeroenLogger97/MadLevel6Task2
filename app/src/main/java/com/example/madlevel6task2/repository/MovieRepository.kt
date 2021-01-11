@@ -4,7 +4,6 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.example.madlevel6task2.api.TmdbApi
 import com.example.madlevel6task2.api.TmdbApiService
-import com.example.madlevel6task2.model.Movie
 import com.example.madlevel6task2.model.MovieList
 import kotlinx.coroutines.withTimeout
 
