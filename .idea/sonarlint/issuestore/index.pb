@@ -1,0 +1,27 @@
+
+k
+;app/src/main/java/com/example/madlevel6task2/model/Movie.kt,2\4\2498e0ae09de0fe04be6cdb28e395c0eb942d044
+o
+?app/src/main/java/com/example/madlevel6task2/model/MovieList.kt,5\0\50cea55ac5ac74b36019edae9b6d56576b255732
+v
+Fapp/src/main/java/com/example/madlevel6task2/ui/MovieDetailFragment.kt,b\6\b6568a7e1162f5bc4b59ee2c5db03f1041137df9
+o
+?app/src/main/java/com/example/madlevel6task2/ui/MainActivity.kt,2\b\2bd9d77a6187fe6eeff946ae5e75a67d41f3e71c
+q
+Aapp/src/main/java/com/example/madlevel6task2/ui/MoviesFragment.kt,1\1\110f802901c77e9ecd8ba40a55baa4f21e99da68
+k
+;app/src/main/java/com/example/madlevel6task2/api/TmdbApi.kt,c\1\c176d8a941e423fade1507f8fda7eea2f4d45800
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+r
+Bapp/src/main/java/com/example/madlevel6task2/api/TmdbApiService.kt,8\a\8a47ec199a2a01f8a2bb670c41bd57ab4a2ab3ca
+z
+Japp/src/main/java/com/example/madlevel6task2/repository/MovieRepository.kt,e\3\e36315df401b133deee03517828ec447cdfbbd1d
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+r
+Bapp/src/main/java/com/example/madlevel6task2/vm/MoviesViewModel.kt,a\5\a516543667ccdb5bcf48e35edb708b50a6809df8
+o
+?app/src/main/java/com/example/madlevel6task2/model/ImageItem.kt,4\4\44c014b3d25741d2a25e22b1e6d837d9e4f5a818
+t
+Dapp/src/main/java/com/example/madlevel6task2/adapter/MovieAdapter.kt,6\c\6c16d87a26e8975efa8ba3d9ea2587adb814e879
